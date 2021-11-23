@@ -7,7 +7,7 @@ Discord bot built with puppeteer and discord.js capable of graphing equations. T
 3. Run ```npm install``` in the installed folder's console
 4. To start up the bot, run the "run.bat" file or execute ```node app.js``` in the same console
 5. Invite the bot to your server using the link "https://discord.com/api/oauth2/authorize?client_id=INSERT_YOUR_CLIENT_ID_HERE&permissions=0&scope=bot%20applications.commands" and replacing the "INSERT_YOUR_CLIENT_ID_HERE" with your bot's client id
-6. Type ```!D commands``` to  list the available commands
+6. Type ```!D commands``` into Discord to  list the available commands
 
 # Dependancies
 - discord.js v13.3.1,
